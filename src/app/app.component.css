@@ -1,0 +1,75 @@
+.window{
+    width: 50%;
+    margin: auto;
+}
+.form{
+    margin-top: 2%;
+    height: 650px;
+    padding: 10px;
+}
+.header{
+    margin: auto;
+    font-size: larger;
+    border-radius: 0.5rem;
+    display: block;
+
+}
+.chatsWindow{
+    padding: 5px;
+    background-color:antiquewhite;
+    height: 375px;
+}
+.button{
+    padding: 5px;
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.name{
+    padding: 10px;
+}
+.message{
+    padding: 10px;
+
+}
+.input{
+    background-color:blanchedalmond;
+}
+.namefield{
+
+    display: block;
+    outline: none;
+    border: 2px ;
+    padding: 10px;
+    width: 100%;
+    border-radius: 0.5rem;
+
+
+}
+.messagefield{
+    border: 2px ;
+    display: block;
+    outline: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 0.5rem;
+
+}
+
+.chat{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: fit-content;
+    background-color: white;
+    border-radius: 0.8rem;
+}
+.feedback{
+    margin-top: 10px;
+    padding-left: 10px;
+    font-style: italic;
+}
